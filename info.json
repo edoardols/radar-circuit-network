@@ -4,6 +4,6 @@
     "title": "Radar with circuit network",
     "author": "Shenk",
     "factorio_version": "1.1",
-    "dependencies": ["base >= 0.1.0"],
+    "dependencies": ["base"],
     "description": "This mod gaves Radars the ability to connect to the circuit network"
   }
